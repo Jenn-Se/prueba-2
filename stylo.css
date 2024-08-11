@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(212, 212, 212);
+}
+h1{
+  font-size: 54px;
+  text-align: center;
+        /*font-family: "Roboto", sans-serif;
+        font-weight: 100;
+        font-style: normal;*/
+        font-family: "Poppins", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+    
+}
+h2{
+    color: white;
+    background-color: rgb(156, 158, 160);
+    
+    font-style: arial;
+}
+p{
+    
+    font-style: arial;
+    margin: 0;
+    margin-bottom: 10px;
+}
+ p em{
+    color: red
+ }
+ strong{
+    background-color: white;
+
+    padding: 2px 4px;
+ }
+ 
+.HTML5 {
+    background-image: url(html5-logo.svg);
+    background-position: left, center;
+    background-repeat: no-repeat;
+    background-size: 70px 100px;
+    padding-left: 100px;
+    min-height: 100px;
+    margin-left: 7%;
+   
+
+ }
+
+
+.pLeft{
+    margin-left: 14%;
+
+}
+
+
+
+.CSS{   
+    background-image: url(css3-logo.svg);
+    background-repeat: no-repeat;
+    background-size: 70px 100px;
+    padding-left: 100px;
+    min-height: 100px;
+    max-width: 60%;
+    margin-left: 7%;
+
+}
+
+    
+
+
